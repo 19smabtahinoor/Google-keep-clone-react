@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400&display=swap');
+*{margin:0px;padding:0px}
+body{
+  background:#202124;
+  width: 100%;
+  height:100vh;
+  font-family: 'PT Sans', sans-serif;
+}
+
+body::-webkit-scrollbar{
+  width:5px;
+}
+
+body::-webkit-scrollbar-thumb{ background: yellow; border-radius: 50px; -webkit-border-radius: 50px; -moz-border-radius: 50px; -ms-border-radius: 50px; -o-border-radius: 50px;
+}
